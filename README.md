@@ -3,3 +3,5 @@
 I am in the feature/first_feature branch
 
 fixing a bug
+
+a chore fix
